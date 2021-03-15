@@ -4,3 +4,14 @@ This project has taught me a lot of things starting from developing a fully func
 
 You can find it at https://www.vidhiniti.in
 
+## Technologies
+
+- JavaScript
+- jQuery
+- HTML
+- CSS (CSS Grid, media queries, animation key frames)
+- SVG (Buttons)
+
+## Contact
+
+- Email: digitalvarun1@gmail.com
