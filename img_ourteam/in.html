@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+ body {
+	 background: #2e4b86;
+	 margin: 0;
+	 height: 100vh;
+	 display: flex;
+	 align-items: center;
+	 justify-content: center;
+	 flex-direction: row;
+	 font-family: "Montserrat", "sans-serif";
+}
+#backbtn{
+height: 0px;
+position:absolute;
+left:35px;
+bottom:100px;
+}
+
+ #backbtn:hover .blue {
+	 transform: translateX(-65px) translateY(-38px);
+}
+ #backbtn:hover .darkBlue {
+	 transform: translateX(-79px) translateY(23px);
+}
+ .button {
+	 transform: translateY(-99px);
+	 cursor: pointer;
+}
+ .blue {
+   padding-left: 50px;
+	 transform: translateX(-45px) translateY(-38px);
+     transition: all 0.5s ease-in-out;
+}
+ .darkBlue {
+  padding-left: 50px;
+	 transform: translateX(-45px) translateY(23px);
+	 transition: all 0.75s ease-in-out;
+}
+ .text {
+	 position: absolute;
+	 color: white;
+	 font-size: 1.5em;
+	 font-weight: bold;
+	 transform: translateX(23px) translateY(13px);
+}
+svg{
+  width: 92px;
+}
+/*
+ .button,.darkBlue,.blue{
+  padding-left: 40px;
+} */
+
+    </style>
+</head>
+<body>
+    <div id="backbtn">
+
+        <div class="darkBlue">
+          <!-- Dark blue -->
+          <svg xmlns="http://www.w3.org/2000/svg" width="103.248" height="56.786" viewBox="0 0 103.248 56.786">
+        <path id="darkBlue" data-name="Path 11" d="M238.113,106.948H200.989l-18.562,28.393,18.562,28.393h37.124l18.562-28.393Z" transform="translate(-182.427 -106.948)" fill="#0f2240"/>
+      </svg>
+        </div>
+      
+        <div class="blue">
+          <!-- Blue -->
+          <svg xmlns="http://www.w3.org/2000/svg" width="103.248" height="56.786" viewBox="0 0 103.248 56.786">
+        <path id="blue" data-name="Path 12" d="M225.28,106.948H188.156l-18.562,28.393,18.562,28.393H225.28l18.562-28.393Z" transform="translate(-169.594 -106.948)" fill="#1e77cc"/>
+      </svg>
+        </div>
+      
+        <div class="button">
+            <a href="http://www.google.com">
+          <span class="text">Back</span>
+          <!-- Button -->
+          <svg xmlns="http://www.w3.org/2000/svg" width="103.813" height="57.79" viewBox="0 0 103.813 57.79">
+            
+        <g id="Group_42" data-name="Group 42" transform="translate(-356 -428.807)">
+          <path id="Path_13" data-name="Path 13" d="M87.837,106.948H50.713l-18.562,28.9,18.562,28.9H87.837l18.562-28.9Z" transform="translate(323.849 321.858)" fill="#4dccbd"/>
+          <rect id="Rectangle_11" data-name="Rectangle 11" width="130.747" height="57.79" transform="translate(374.504 428.807)" fill="#4dccbd"/>
+          <!-- <path id="Path_14" data-name="Path 14" d="M212.367,106.948H175.243l-18.562,28.9,18.562,28.9h37.124l18.562-28.9Z" transform="translate(293.884 321.858)" fill="#4dccbd"/> -->
+        </g>
+      </svg></a>
+        </div>
+      </div>
+</body>
+</html>
