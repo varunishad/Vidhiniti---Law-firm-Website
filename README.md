@@ -1,17 +1,19 @@
 # Vidhiniti---Law-firm-Website
-This is my first website being a freelancer which took me quite long to build and launch it on the internet.
-This project has taught me a lot of things starting from developing a fully functional website to making it live on the internet.
 
-You can find it at https://varunishad.github.io/Vidhiniti---Law-firm-Website/
+This repository contains the code for a law firm website designed and implemented using various frontend technologies. The website provides information about the law firm, details about its lawyers, and a convenient way for clients to get in touch.
 
-## Technologies
+## Technologies Used
 
-- JavaScript
-- jQuery
-- HTML
-- CSS (CSS Grid, media queries, animation key frames)
-- SVG (Buttons)
+- **JavaScript:** Used for interactive features and dynamic content.
+- **jQuery:** Employed to simplify DOM manipulation and enhance user interactions.
+- **HTML:** The structure of the website is built using HTML.
+- **CSS:** Utilized CSS Grid, media queries, and animation keyframes to create a visually appealing and responsive design.
+- **SVG:** Customized SVG buttons to enhance the user interface.
 
-## Contact
+## Features
 
-- Email: digitalvarun1@gmail.com
+- **Responsive Design:** The website is compatible with various devices, ensuring a seamless experience for users on desktops, tablets, and mobile devices.
+- **Interactive Elements:** JavaScript and jQuery are incorporated to create interactive features that engage users and provide a dynamic browsing experience.
+- **Lawyer Profiles:** Detailed information about the law firm's lawyers, allowing clients to get to know the team.
+- **Contact Form:** A user-friendly contact form is provided to facilitate easy communication between the clients and the law firm.
+
