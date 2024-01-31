@@ -1,6 +1,6 @@
 # Vidhiniti---Law-firm-Website
 
-This repository contains the code for a law firm website designed and implemented using various frontend technologies. The website provides information about the law firm, details about its lawyers, and a convenient way for clients to get in touch.
+The law firm website is a comprehensive online platform built using frontend technologies. It serves as a digital presence for the law firm, offering information about the firm, details about its lawyers, and a user-friendly way for clients to contact them. The website is designed to be compatible with all devices, ensuring a responsive and accessible experience for users.
 
 ## Technologies Used
 
@@ -8,7 +8,6 @@ This repository contains the code for a law firm website designed and implemente
 - **jQuery:** Employed to simplify DOM manipulation and enhance user interactions.
 - **HTML:** The structure of the website is built using HTML.
 - **CSS:** Utilized CSS Grid, media queries, and animation keyframes to create a visually appealing and responsive design.
-- **SVG:** Customized SVG buttons to enhance the user interface.
 
 ## Features
 
