@@ -1,4 +1,4 @@
-# Vidhiniti---Law-firm-Website
+# Vidhiniti -- Law-firm 
 
 The law firm website is a comprehensive online platform built using frontend technologies. It serves as a digital presence for the law firm, offering information about the firm, details about its lawyers, and a user-friendly way for clients to contact them. The website is designed to be compatible with all devices, ensuring a responsive and accessible experience for users.
 
